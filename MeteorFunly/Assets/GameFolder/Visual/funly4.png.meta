@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 9974448907116b74cbffeec0765a8a4b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: funly4_69
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 362
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335a3a60134ec9b459e87cf603c78eb0
+      internalID: -299494769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: funly4_70
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 362
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b64c484680d52a46962b050dc9ecccb
+      internalID: 272772724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: funly4_71
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 12
+        width: 362
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3188cbeaaf4b14c9f385a97292afc8
+      internalID: -339031324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: funly4_72
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 12
+        width: 362
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7d482053c45af4ab568f05f2599311
+      internalID: -1165936456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      funly4_0: 1874657912
+      funly4_1: -272412613
+      funly4_10: -486136806
+      funly4_11: -1965097464
+      funly4_12: -2044079681
+      funly4_13: -1658576311
+      funly4_14: 1694649585
+      funly4_15: 340877440
+      funly4_16: -1366852812
+      funly4_17: 1894659708
+      funly4_18: 1600863025
+      funly4_19: -1994049311
+      funly4_2: -2101197850
+      funly4_20: 1431621967
+      funly4_21: 46978670
+      funly4_22: 1273243354
+      funly4_23: -357237603
+      funly4_24: -1313621693
+      funly4_25: -1098995870
+      funly4_26: -423629519
+      funly4_27: 2057346443
+      funly4_28: -399595892
+      funly4_29: -1286479840
+      funly4_3: -499101232
+      funly4_30: 554032761
+      funly4_31: -71998221
+      funly4_32: 1442449895
+      funly4_33: 1810485742
+      funly4_34: 1328830974
+      funly4_35: -2057774561
+      funly4_36: 1760218024
+      funly4_37: -1085411101
+      funly4_38: 818222143
+      funly4_39: -1090812153
+      funly4_4: 1145974862
+      funly4_40: 418532927
+      funly4_41: -771573449
+      funly4_42: -290468538
+      funly4_43: 1687486013
+      funly4_44: 1594001433
+      funly4_45: 201149401
+      funly4_46: 1277249274
+      funly4_47: 1082426871
+      funly4_48: -248580886
+      funly4_49: 1685131740
+      funly4_5: 70381429
+      funly4_50: 1226835211
+      funly4_51: -957759003
+      funly4_52: -2059918441
+      funly4_53: 1009586537
+      funly4_54: -1885193146
+      funly4_55: 394154033
+      funly4_56: -1151090231
+      funly4_57: 1726525713
+      funly4_58: 1082074869
+      funly4_59: 109054467
+      funly4_6: 1204667998
+      funly4_60: 499337880
+      funly4_61: 1224544755
+      funly4_62: -1256249511
+      funly4_63: -1065825354
+      funly4_64: -167482134
+      funly4_65: -1552324372
+      funly4_66: 297187952
+      funly4_67: 1908764081
+      funly4_68: -1947701908
+      funly4_69: -299494769
+      funly4_7: 612609531
+      funly4_70: 272772724
+      funly4_71: -339031324
+      funly4_72: -1165936456
+      funly4_73: -1185738732
+      funly4_8: 654283887
+      funly4_9: -1534884339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
